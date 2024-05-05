@@ -1,0 +1,86 @@
+/*WEBSITE LAYOUT*/
+.header {
+  background-color: #0099ff;
+  text-align: left;
+  padding: 20px;
+}
+
+/*NAVBAR CONTAINER*/
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/*NAVBAR LINKS*/
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration; none;
+}
+
+/*LINK BUTTONS*/
+/*LINKS - CHANGE COLOR ON HOVER*/
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* VERTICAL NAVIGATION BAR */
+li a {
+  display: block;
+  width: 60px;
+}
+
+/*3 COLUMNS*/
+/*
+.column {
+  float: left;
+  width: 33%;
+  display: inline-block;
+}
+*/
+
+/*CONTENT LAYOUT*/
+/*3 EQUAL COMUMNS*/
+.column {
+  float: left;
+  width: 33.33%;
+}
+**/
+
+/*RESPONSIVE LAYOUT*/
+@media screen and (max-width: 600px) {
+  .column {
+    width:100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+/**
+.grid container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+**/
+
+/**
+.mycontainer {
+  width: 100%;
+  overflow: auto;
+}
+
+.mycontainer {
+  width: 33%;
+  float: left;
+}
+**/
