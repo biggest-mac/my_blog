@@ -3,6 +3,7 @@
   background-color: #0099ff;
   text-align: left;
   padding: 20px;
+  font-family: Courier New;
 }
 
 /*NAVBAR CONTAINER*/
@@ -34,15 +35,6 @@ li a {
   width: 60px;
 }
 
-/*3 COLUMNS*/
-/*
-.column {
-  float: left;
-  width: 33%;
-  display: inline-block;
-}
-*/
-
 /*CONTENT LAYOUT*/
 /*3 EQUAL COMUMNS*/
 .column {
@@ -57,6 +49,8 @@ li a {
     width:100%;
   }
 }
+
+
 
 
 
