@@ -36,26 +36,26 @@
 .dropdown-content {
   display: none; 
   position: absolute;
-  background-color: violet;
+  background-color: slateblue;
   min-width: 160px;
   box-shadow: none;
   z-index: 1;
 }
 .dropdown-content a {
-  color: slateblue;
-  font-size: 16px;
-  padding: 12px 16px;
+  color: violet;
+  font-size: 20px;
+  padding: 16px 20px;
   text-decoration: none;
   display: block;
 }
 .dropdown-content a:hover {
-  background-color: gray;
+  background-color: mediumseagreen;
 }
 .dropdown:hover .dropdown-content {
   display: block;
 }
 .dropdown:hover .dropbtn {
-  background-color: lightgray;
+  background-color: tomato;
 }
 
 
