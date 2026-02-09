@@ -51,6 +51,9 @@
    width: 32.5%;
    padding-bottom: 15px;
    margin: 13px 13px 13px 13px;
+}
+
+.container .box .new-post img{
    border-radius: 5px;
 }
 
