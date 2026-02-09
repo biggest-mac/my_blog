@@ -44,17 +44,17 @@
    margin: 5px 5px 5px 5px;
 }
 
+.container .new-post a:hover{
+  color: violet;
+  text-decoration: none;
+}
+
 .container .new-post a:link{
   color: #333;
   text-decoration: none;
 }
 
 .container .new-post a:visited{
-}
-
-.container .new-post a:hover{
-  color: violet;
-  text-decoration: none;
 }
 
 .container .box .article{
