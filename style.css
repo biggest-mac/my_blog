@@ -23,43 +23,25 @@
 
 .container{
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: stretch;
-  background-color: violet;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: left;
-  margin: 40px 20px 0px 20px
+  margin: 40px 20px 0px 20px;
 }
 
 .container .visible{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
   justify-content: space-between;
-  align-content: space-evenly;
-  background-color: orange;
-  text-align: left;
-  margin: 40px 20px 0px 20px
 }
 
 .container .visible .newpost{
-  display: flex;
-  flex-direction: column;
-  /*width: 25%;*/
-  padding-bottom: 15px;
-  text-align: left;
+   width: 100%;
+   padding-bottom: 15px;
 }
 
-.container .visible .newpost img{
-  display: flex;
-  flex-direction: column;
-  /*width: 25%;*/
-  padding-bottom: 0px;
-  width: 100%;
-}
-
-.container .newpost a:hover{
+.container .newpost:hover{
   background-color: #333;
   color: white;
   text-align: left;
