@@ -43,6 +43,11 @@
    padding-bottom: 15px;
 }
 
+.container .new-post a{
+  color: #333;
+  text-decoration: none;
+}
+
 .container .new-post a:hover{
   color: violet;
 }
