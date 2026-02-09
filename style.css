@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+h5{
+  color: lightgrey;
+}
+
 .navbar{
   display: flex;
   background-color: white;
