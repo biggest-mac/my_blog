@@ -52,9 +52,6 @@
 .container .new-post a:visited{
 }
 
-.container .new-post a:active{
-}
-
 .container .new-post a:hover{
   color: violet;
   text-decoration: none;
