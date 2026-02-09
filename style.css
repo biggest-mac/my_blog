@@ -53,10 +53,10 @@ h5{
   text-decoration: none;
 }
 
-.container .new-post a:link{
+/*.container .new-post a:link{
   color: #333;
   text-decoration: none;
-}
+}*/
 
 .container .new-post a:visited{
   color: #333;
