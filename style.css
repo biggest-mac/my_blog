@@ -30,28 +30,28 @@
   margin: 40px 20px 0px 20px;
 }
 
-.container .visible{
+.container .box{
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
 }
 
-.container .visible .newpost{
+.container .box .new-post{
    width: 100%;
    padding-bottom: 15px;
 }
 
-.container .newpost:hover{
-  background-color: #333;
-  color: white;
+.container .new-post:hover{
+  background-color: white;
+  color: violet;
   text-align: left;
 }
 
 @media only screen and (max-width: 769px){
-  .container .visible{
+  .container .box{
     flex-direction: column;
   }
-  .container .visible .newpost{
+  .container .box .new-post{
     width: 100%;
   }
 }
