@@ -29,12 +29,12 @@
   align-items: stretch;
   background-color: white;
   text-align: left;
+  margin: 40px 20px 0px 20px
 }
 
 .container .newpost{
   width: 250px;
-  margin: 10px;
-  padding: 10px;
+  padding-bottom: 10px;
   text-align: left;
 }
 
