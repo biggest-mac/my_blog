@@ -49,19 +49,19 @@
   text-decoration: none;
 }
 
+.container .new-post a:visited{
+}
+
+.container .new-post a:active{
+}
+
 .container .new-post a:hover{
   color: violet;
   text-decoration: none;
 }
 
-.container .new-post a:visited{
-  color: #333;
-  text-decoration: none;
-}
-
-.container .new-post a:active{
-  color: tomato;
-  text-decoration: none;
+.container .box .article{
+   width: 100%;
 }
 
 @media only screen and (max-width: 769px){
