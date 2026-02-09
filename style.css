@@ -1,8 +1,6 @@
 *{
   box-sizing: border-box;
   font-family: "Mona Sans", "Courier New", monospace;
-  color: #333;
-  text-decoration: none;
   margin: 0;
 }
 
@@ -42,6 +40,11 @@
 .container .box .new-post{
    width: 32.5%;
    padding-bottom: 15px;
+}
+
+.container .new-post a{
+  color: #333;
+  text-decoration: none;
 }
 
 .container .new-post a:hover{
