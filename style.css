@@ -37,3 +37,9 @@
   padding: 10px;
   text-align: left;
 }
+
+.container .newpost a:hover{
+  background-color: #333;
+  color: white;
+  text-align: left;
+}
