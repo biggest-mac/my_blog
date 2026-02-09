@@ -53,12 +53,7 @@
   text-decoration: none;
 }
 
-/*.container .new-post a:link{
-  color: #333;
-  text-decoration: none;
-}*/
-
-.container .new-post a:visited{
+.container .new-post a:link{
   color: #333;
   text-decoration: none;
 }
