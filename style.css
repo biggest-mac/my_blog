@@ -33,7 +33,9 @@
 }
 
 .container .newpost{
-  width: 250px;
+  display: flex;
+  flex-direction: column;
+  width: 25%;
   padding-bottom: 15px;
   text-align: left;
 }
