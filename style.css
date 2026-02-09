@@ -42,7 +42,7 @@
    padding-bottom: 15px;
 }
 
-.container .new-post a{
+.container .new-post a:link{
   color: #333;
   text-decoration: none;
 }
