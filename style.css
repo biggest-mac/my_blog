@@ -43,10 +43,8 @@
    padding-bottom: 15px;
 }
 
-.container .new-post:hover{
-  background-color: white;
+.container .new-post a:hover{
   color: violet;
-  text-align: left;
 }
 
 @media only screen and (max-width: 769px){
